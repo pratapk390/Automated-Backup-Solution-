@@ -1,0 +1,6 @@
+INFO:root:Created tar file: E:\log_20240606074212.tar.gz
+INFO:oauth2client.client:access_token is expired. Now: 2024-06-06 02:12:12.348974, token_expiry: 2024-06-04 17:07:30
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+INFO:root:Successfully uploaded E:\log_20240606074212.tar.gz to Google Drive
+INFO:root:Removed temporary tar file: E:\log_20240606074212.tar.gz
